@@ -1,6 +1,6 @@
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
-I'm Kenta. A Software Engineer at The Beyond Group and currently based in Long Beach, California
+I'm Kenta - A Software Engineer at The Beyond Group and based in Idaho 🥔
 </p>
 <div align='center'>Let's connect!</div>
 <div align='center'><a href="mailto:kenta@kentayoung.dev">kenta@kentayoung.dev</a></div>
